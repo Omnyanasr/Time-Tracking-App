@@ -13,4 +13,4 @@ A simple Flutter app to track time spent on different projects and tasks. Uses l
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Time-Tracking-App.git
+   git clone https://github.com/Omnyanasr/Time-Tracking-App.git
